@@ -1,0 +1,43 @@
+.alert{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+}
+.button{
+	padding-top: 280px;
+}
+.td{
+	font-size: 25px !important;
+	font-style: bold;
+}
+.tranc{
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 50px;
+}
+.class{
+	padding-top: 90px;
+}
+form {
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+}
+input {
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+th,td {
+  height: 50px;
+  vertical-align: top;
+  border: 1px solid black;
+  text-align: center;
+}
